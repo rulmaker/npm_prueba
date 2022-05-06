@@ -1,0 +1,26 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rulmaker/npm_prueba.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rulmaker/npm_prueba/issues"
+  },
+  "homepage": "https://github.com/rulmaker/npm_prueba#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
